@@ -2,16 +2,16 @@
 
 This is my first data analytics project using Microsoft Excel.
 
-The project is an interactive dashboard that analyzes coffee shop sales data and provides insights into revenue, product performance, and store performance.
+The project is an interactive dashboard that analyses coffee shop sales data and provides useful insights into revenue, product performance, store performance, and sales trends.
 
 ## 📊 Features
 
 - Revenue analysis
 - Monthly sales trends
-- Product performance
-- Store performance
+- Product performance analysis
+- Store performance analysis
 - Hourly sales analysis
-- Interactive dashboard using Pivot Tables, Pivot Charts, and Slicers
+- Interactive dashboard created using Pivot Tables, Pivot Charts, and Slicers
 
 ## 🛠️ Tools Used
 
@@ -22,7 +22,7 @@ The project is an interactive dashboard that analyzes coffee shop sales data and
 
 ## 📁 Files
 
-- [CoffeeShopRevenueDashboard.xlsx](CoffeeShopRevenueDashboard.xlsx) – Interactive Excel dashboard
+- **CoffeeShopRevenueDashboard.xlsx** – Interactive Excel dashboard
 
 ## 📷 Dashboard Preview
 
@@ -35,17 +35,20 @@ The project is an interactive dashboard that analyzes coffee shop sales data and
 - **Average Transaction Value:** £4.69
 - **Highest Revenue Month:** June
 - **Top-Performing Store:** Hell's Kitchen
- Revenue increased steadily from January to June, with June recording the highest sales.
 
-## 🎯 What I Learned
+Revenue increased steadily from January to June, with June recording the highest sales.
+
+## 🎯 Skills Demonstrated
 
 - Data cleaning
 - Creating Pivot Tables
 - Building Pivot Charts
-- Designing an interactive dashboard
-- Analyzing sales data
-- Transforming raw sales data into an interactive business dashboard
+- Dashboard design
+- Sales data analysis
+- Turning raw data into clear business insights
 
 ## 🚀 About This Project
 
-This is my first data analytics portfolio project. It helped me improve my Excel skills, including data cleaning, dashboard design, and data visualization. I look forward to learning new skills and building more data analytics projects.
+This is my first data analytics portfolio project. It helped me improve my Microsoft Excel skills, especially in data cleaning, dashboard design, and data visualisation.
+
+During this project, I learned how to organise raw sales data, create interactive dashboards, and present business information in a clear and easy-to-understand way. I look forward to building more data analytics projects and continuing to improve my skills.
