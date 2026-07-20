@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Revenue Dashboard
+# ☕ Coffee Shop Sales Dashboard
 
 This project is an interactive dashboard created in Microsoft Excel to analyse coffee shop sales data and present business insights in a clear and easy-to-understand way. The dashboard allows users to explore revenue, product performance, store performance, and sales trends using Pivot Tables, Pivot Charts, and Slicers.
 
