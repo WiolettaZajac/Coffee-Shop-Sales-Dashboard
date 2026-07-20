@@ -61,10 +61,11 @@ The main columns include:
 ## 📁 Files
 
 - [Coffee Dashboard.xlsx](coffee_dashboard.xlsx) – Interactive Excel dashboard
-
 ## 📷 Dashboard Preview
 
 The dashboard allows users to interact with the data using slicers to explore sales trends by month, store, and product category.
+
+![Coffee Sales Dashboard](images/coffee_sales.png)
 
 The interactive Excel dashboard is available in the `dashboard/coffee_dashboard.xlsx` file.
 
