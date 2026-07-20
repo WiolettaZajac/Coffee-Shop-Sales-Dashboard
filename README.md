@@ -38,6 +38,17 @@ The project is an interactive dashboard that analyses coffee shop sales data and
 
 Revenue increased steadily from January to June, with June recording the highest sales.
 
+## ⚠️ Challenges Faced 
+During this project, I faced a few challenges that helped me improve my Excel and data analysis skills.
+
+- Learning how to use Pivot Tables and Pivot Charts, as I had little experience with them before this project.
+- Connecting multiple Pivot Tables to the same Slicers so that all charts updated correctly.
+- Choosing the most important KPIs and charts without making the dashboard look crowded.
+- Turning raw sales data into meaningful business insights instead of only presenting numbers.
+
+By overcoming these challenges, I improved my Excel skills, gained confidence in creating interactive dashboards, and learned how to present data in a clear and useful way.
+
+
 ## 🎯 Skills Demonstrated
 
 - Data cleaning
