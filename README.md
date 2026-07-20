@@ -18,7 +18,8 @@ The main goals of this project were to:
 
 ## 📂 Dataset
 
-The dataset contains transactional sales data from a coffee shop. The main columns include:
+The dataset contains **149,456 coffee shop transactions** collected over six months. It includes information about transaction dates and times, store locations, products sold, quantities, and revenue. This data was cleaned and analysed using Microsoft Excel to create the interactive dashboard.
+The main columns include:
 
 | Column | Description |
 |---------|-------------|
