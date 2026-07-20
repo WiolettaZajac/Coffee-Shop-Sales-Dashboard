@@ -2,7 +2,43 @@
 
 This is my first data analytics project using Microsoft Excel.
 
-The project is an interactive dashboard that analyses coffee shop sales data and provides useful insights into revenue, product performance, store performance, and sales trends.
+The aim of this project was to analyse coffee shop sales data and build an interactive dashboard that helps users understand business performance. Using Excel, I transformed raw sales data into clear visual reports that highlight revenue trends, product performance, store performance, and customer purchasing patterns.
+
+This project allowed me to practise data cleaning, data analysis, and dashboard design while learning how to use Pivot Tables, Pivot Charts, and Slicers to create an interactive reporting tool. It also helped me develop my ability to turn raw business data into meaningful insights that can support decision-making.
+
+## 🎯 Project Aim
+
+The main objectives of this project were to:
+
+- Clean and prepare raw sales data for analysis.
+- Analyse sales performance using Microsoft Excel.
+- Create an interactive dashboard to explore the data.
+- Identify trends in revenue, products, stores, and sales by hour.
+- Present business insights in a clear and easy-to-understand format.
+
+## 📂 Dataset
+
+The dataset contains transactional sales data from a coffee shop. The main columns include:
+
+| Column | Description |
+|---------|-------------|
+| `transaction_id` | Unique ID for each transaction |
+| `transaction_date` | Date of the transaction |
+| `transaction_time` | Time of the transaction |
+| `transaction_qty` | Quantity of items purchased |
+| `store_id` | Store identification number |
+| `store_location` | Store location |
+| `product_id` | Product identification number |
+| `unit_price` | Price per item |
+| `product_category` | Product category |
+| `product_type` | Product type |
+| `product_detail` | Product description |
+| `Revenue` | Total revenue from the transaction |
+| `Month` | Transaction month |
+| `Month No` | Month number |
+| `Day` | Day of the week |
+| `Hour` | Hour of the transaction |
+| `Weekend` | Indicates whether the transaction occurred on a weekend |
 
 ## 📊 Features
 
@@ -11,7 +47,7 @@ The project is an interactive dashboard that analyses coffee shop sales data and
 - Product performance analysis
 - Store performance analysis
 - Hourly sales analysis
-- Interactive dashboard created using Pivot Tables, Pivot Charts, and Slicers
+- Interactive dashboard with Pivot Tables, Pivot Charts, and Slicers
 
 ## 🛠️ Tools Used
 
@@ -38,7 +74,8 @@ The project is an interactive dashboard that analyses coffee shop sales data and
 
 Revenue increased steadily from January to June, with June recording the highest sales.
 
-## ⚠️ Challenges Faced 
+## ⚠️ Challenges Faced
+
 During this project, I faced a few challenges that helped me improve my Excel and data analysis skills.
 
 - Learning how to use Pivot Tables and Pivot Charts, as I had little experience with them before this project.
@@ -48,7 +85,6 @@ During this project, I faced a few challenges that helped me improve my Excel an
 
 By overcoming these challenges, I improved my Excel skills, gained confidence in creating interactive dashboards, and learned how to present data in a clear and useful way.
 
-
 ## 🎯 Skills Demonstrated
 
 - Data cleaning
@@ -56,10 +92,11 @@ By overcoming these challenges, I improved my Excel skills, gained confidence in
 - Building Pivot Charts
 - Dashboard design
 - Sales data analysis
+- Data visualisation
 - Turning raw data into clear business insights
 
 ## 🚀 About This Project
 
 This is my first data analytics portfolio project. It helped me improve my Microsoft Excel skills, especially in data cleaning, dashboard design, and data visualisation.
 
-During this project, I learned how to organise raw sales data, create interactive dashboards, and present business information in a clear and easy-to-understand way. I look forward to building more data analytics projects and continuing to improve my skills.
+During this project, I learned how to organise raw sales data, create interactive dashboards, and present business information in a clear and easy-to-understand way. I look forward to building more data analytics projects, learning new tools, and continuing to improve my skills.
