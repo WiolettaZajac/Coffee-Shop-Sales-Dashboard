@@ -24,7 +24,7 @@ The project is an interactive dashboard that analyzes coffee shop sales data and
 
 - [CoffeeShopRevenueDashboard.xlsx](CoffeeShopRevenueDashboard.xlsx) – Interactive Excel dashboard
 
-- > 📥 Download the Excel file to explore the interactive dashboard with Pivot Tables, Charts, and Slicers.
+- 📥 Download the Excel file to explore the interactive dashboard with Pivot Tables, Charts, and Slicers.
 
 
 ## 📷 Dashboard Preview
