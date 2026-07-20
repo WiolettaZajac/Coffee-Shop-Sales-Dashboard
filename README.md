@@ -81,8 +81,7 @@ Before building the dashboard, I cleaned the data and created additional columns
 
 ## 📁 Files
 
-- **Coffee Dashboard.xlsx** – Interactive Excel dashboard
-
+- `Coffee Dashboard.xlsx` – Excel dashboard
 ---
 
 ## ❓ Business Questions
