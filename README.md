@@ -81,7 +81,7 @@ Before building the dashboard, I cleaned the data and created additional columns
 
 ## 📁 Files
 
-- `Coffee Dashboard.xlsx` – Excel dashboard
+- [coffee_dashboard.xlsx](dashboard/coffee_dashboard.xlsx)
 ---
 
 ## ❓ Business Questions
