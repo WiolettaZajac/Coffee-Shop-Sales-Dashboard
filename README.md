@@ -60,14 +60,14 @@ The main columns include:
 
 ## 📁 Files
 
-- [Coffee Dashboard.xlsx](coffee_dashboard.xlsx) – Interactive Excel dashboard
+- [Coffee Dashboard.xlsx](dashboard/coffee_dashboard.xlsx) – Interactive Excel dashboard
+
 ## 📷 Dashboard Preview
 
 The dashboard allows users to interact with the data using slicers to explore sales trends by month, store, and product category.
 
 ![Coffee Sales Dashboard](images/coffee_sales.png)
 
-📄 **Download the interactive Excel dashboard:** [coffee_dashboard.xlsx](dashboard/coffee_dashboard.xlsx)
 
 ## ❓ Business Questions Answered
 
