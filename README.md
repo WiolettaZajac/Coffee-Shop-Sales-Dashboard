@@ -8,13 +8,13 @@ This project allowed me to practise data cleaning, data analysis, and dashboard 
 
 ## 🎯 Project Aim
 
-The main objectives of this project were to:
+The main goals of this project were to:
 
-- Clean and prepare raw sales data for analysis.
+- Clean and prepare the sales data for analysis.
 - Analyse sales performance using Microsoft Excel.
-- Create an interactive dashboard to explore the data.
+- Build an interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
 - Identify trends in revenue, products, stores, and sales by hour.
-- Present business insights in a clear and easy-to-understand format.
+- Present the results in a clear and easy-to-understand format.
 
 ## 📂 Dataset
 
