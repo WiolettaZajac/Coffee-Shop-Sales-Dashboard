@@ -35,7 +35,7 @@ The project is an interactive dashboard that analyzes coffee shop sales data and
 - **Average Transaction Value:** £4.69
 - **Highest Revenue Month:** June
 - **Top-Performing Store:** Hell's Kitchen
-- Revenue increased steadily from January to June, with June recording the highest sales.
+ Revenue increased steadily from January to June, with June recording the highest sales.
 
 ## 🎯 What I Learned
 
