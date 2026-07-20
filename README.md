@@ -58,7 +58,7 @@ The dataset contains transactional sales data from a coffee shop. The main colum
 
 ## 📁 Files
 
-- [Coffee Dashboard.xlsx](coffee_dashboard.xlsx) – Interactive Excel dashboard
+- [Coffee Dashboard.xlsx](Coffee-Dashboard.xlsx) – Interactive Excel dashboard
 
 ## 📷 Dashboard Preview
 
