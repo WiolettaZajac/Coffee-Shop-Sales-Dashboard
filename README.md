@@ -1,55 +1,74 @@
 # ☕ Coffee Shop Sales Dashboard
 
-This project is an interactive dashboard created in Microsoft Excel to analyse coffee shop sales data and present business insights in a clear and easy-to-understand way. The dashboard allows users to explore revenue, product performance, store performance, and sales trends using Pivot Tables, Pivot Charts, and Slicers.
+This project is an interactive sales dashboard built in Microsoft Excel using a coffee shop sales dataset.
 
-The project involved cleaning and organising sales data, creating interactive visualisations, and analysing the data to identify trends and support business decisions.
+The dashboard analyses sales performance and allows users to explore revenue, product performance, store performance, and sales trends using Pivot Tables, Pivot Charts, and Slicers.
 
-## 🎯 Project Aim
+I built this project to practise my Excel skills and learn how to create interactive dashboards from raw sales data.
 
-The main goals of this project were to:
+---
 
-- Clean and prepare the sales data for analysis.
+## 🎯 Project Objectives
+
+- Clean and prepare the sales data.
 - Analyse sales performance using Microsoft Excel.
 - Build an interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
-- Identify trends in revenue, products, stores, and sales by hour.
-- Present the results in a clear and easy-to-understand format.
+- Compare sales across months, stores, products, and times of day.
+- Present key business metrics in a clear and interactive way.
+
+---
+
+## 📊 Dashboard
+
+The dashboard includes:
+
+- Revenue overview
+- Monthly sales trends
+- Product performance
+- Store performance
+- Hourly sales analysis
+- Interactive slicers
+
+![Coffee Sales Dashboard](images/coffee_sales.png)
+
+---
 
 ## 📂 Dataset
 
-The dataset contains **149,456 coffee shop transactions** collected over six months. Each record includes information about the transaction date and time, store location, products sold, quantity purchased, unit price, and revenue.
+The dataset contains **149,456 transactions** collected over six months.
 
-The data was cleaned and prepared in Microsoft Excel before being analysed to create the interactive dashboard.
+Each record includes:
 
-The main columns include:
+- Transaction date and time
+- Store location
+- Product information
+- Quantity sold
+- Unit price
+- Revenue
+
+Before building the dashboard, I cleaned the data and created additional columns such as **Month**, **Day**, **Hour**, and **Weekend** to make the analysis easier.
 
 | Column | Description |
 |---------|-------------|
-| `transaction_id` | Unique ID for each transaction |
-| `transaction_date` | Date of the transaction |
-| `transaction_time` | Time of the transaction |
-| `transaction_qty` | Quantity of items purchased |
-| `store_id` | Store identification number |
+| `transaction_id` | Unique transaction ID |
+| `transaction_date` | Date of sale |
+| `transaction_time` | Time of sale |
+| `transaction_qty` | Quantity purchased |
+| `store_id` | Store ID |
 | `store_location` | Store location |
-| `product_id` | Product identification number |
+| `product_id` | Product ID |
 | `unit_price` | Price per item |
 | `product_category` | Product category |
 | `product_type` | Product type |
 | `product_detail` | Product description |
-| `Revenue` | Total revenue from the transaction |
-| `Month` | Transaction month |
+| `Revenue` | Total revenue |
+| `Month` | Month name |
 | `Month No` | Month number |
 | `Day` | Day of the week |
-| `Hour` | Hour of the transaction |
-| `Weekend` | Indicates whether the transaction occurred on a weekend |
+| `Hour` | Hour of transaction |
+| `Weekend` | Weekend indicator |
 
-## 📊 Features
-
-- Revenue analysis
-- Monthly sales trends
-- Product performance analysis
-- Store performance analysis
-- Hourly sales analysis
-- Interactive dashboard with Pivot Tables, Pivot Charts, and Slicers
+---
 
 ## 🛠️ Tools Used
 
@@ -58,64 +77,63 @@ The main columns include:
 - Pivot Charts
 - Slicers
 
+---
+
 ## 📁 Files
 
-- [Coffee Dashboard.xlsx](dashboard/coffee_dashboard.xlsx) – Interactive Excel dashboard
+- **Coffee Dashboard.xlsx** – Interactive Excel dashboard
 
-## 📷 Dashboard Preview
+---
 
-The dashboard allows users to interact with the data using slicers to explore sales trends by month, store, and product category.
-
-![Coffee Sales Dashboard](images/coffee_sales.png)
-
-
-## ❓ Business Questions Answered
+## ❓ Business Questions
 
 This dashboard helps answer questions such as:
 
 - Which month generated the highest revenue?
 - Which store performed best?
-- Which products generated the most sales?
-- At what time of day are sales highest?
+- Which products sold the most?
+- When are sales busiest during the day?
 - What is the average transaction value?
 
-## 📈 Key Insights
+---
+
+## 📈 Key Results
 
 - **Total Revenue:** £698,812.33
 - **Total Transactions:** 149,116
 - **Average Transaction Value:** £4.69
 - **Highest Revenue Month:** June
-- **Top-Performing Store:** Hell's Kitchen
+- **Best Performing Store:** Hell's Kitchen
 
-The analysis showed that revenue increased steadily from January to June, with June recording the highest sales. Hell's Kitchen was the best-performing store, and the average transaction value was £4.69.
+Revenue increased throughout the six-month period, with June recording the highest sales. Hell's Kitchen generated the highest revenue, while the average customer transaction value was **£4.69**.
 
-## ⚠️ Challenges Faced
+---
 
-During this project, I faced a few challenges that helped me improve my Excel and data analysis skills.
+## 💡 What I Learned
 
-- Learning how to use Pivot Tables and Pivot Charts, as I had little experience with them before this project.
-- Connecting multiple Pivot Tables to the same Slicers so that all charts updated correctly.
-- Choosing the most important KPIs and charts without making the dashboard look crowded.
-- Turning raw sales data into meaningful business insights instead of only presenting numbers.
+This was my first dashboard project in Excel, so I learned a lot while building it.
 
-By overcoming these challenges, I improved my Excel skills, gained confidence in creating interactive dashboards, and learned how to present data in a clear and useful way.
+Some of the things I found challenging were:
+
+- Learning how Pivot Tables and Pivot Charts work.
+- Connecting multiple Pivot Tables to the same slicers.
+- Choosing which charts and KPIs to include without making the dashboard too busy.
+
+By the end of the project, I felt much more confident using Excel to clean data, analyse sales, and build interactive dashboards.
+
+---
 
 ## 🎯 Skills Demonstrated
 
 - Data cleaning
-- Creating Pivot Tables
-- Building Pivot Charts
+- Data analysis
 - Dashboard design
-- Sales data analysis
+- Pivot Tables
+- Pivot Charts
 - Data visualisation
-- Turning raw data into clear business insights
+- KPI reporting
 
-## 🚀 About This Project
-
-This is my first data analytics portfolio project. It helped me improve my Microsoft Excel skills, especially in data cleaning, dashboard design, and data visualisation.
-
-During this project, I learned how to organise raw sales data, create interactive dashboards, and present business information in a clear and easy-to-understand way. I look forward to building more data analytics projects, learning new tools, and continuing to improve my skills.
-
+---
 
 ## 👤 Author
 
