@@ -115,3 +115,8 @@ By overcoming these challenges, I improved my Excel skills, gained confidence in
 This is my first data analytics portfolio project. It helped me improve my Microsoft Excel skills, especially in data cleaning, dashboard design, and data visualisation.
 
 During this project, I learned how to organise raw sales data, create interactive dashboards, and present business information in a clear and easy-to-understand way. I look forward to building more data analytics projects, learning new tools, and continuing to improve my skills.
+
+
+## 👤 Author
+
+**Wioletta Zajac**
