@@ -67,7 +67,7 @@ The dashboard allows users to interact with the data using slicers to explore sa
 
 ![Coffee Sales Dashboard](images/coffee_sales.png)
 
-The interactive Excel dashboard is available in the `dashboard/coffee_dashboard.xlsx` file.
+📄 **Download the interactive Excel dashboard:** [coffee_dashboard.xlsx](dashboard/coffee_dashboard.xlsx)
 
 ## ❓ Business Questions Answered
 
