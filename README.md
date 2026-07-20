@@ -67,7 +67,7 @@ The main columns include:
 The dashboard allows users to interact with the data using slicers to explore sales trends by month, store, and product category.
 
 
-![Coffee Shop Dashboard](Coffee-Dashboard.png)
+![Coffee Shop Dashboard](coffee_sales.png.png)
 
 ## ❓ Business Questions Answered
 
