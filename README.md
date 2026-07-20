@@ -27,7 +27,7 @@ The project is an interactive dashboard that analyzes coffee shop sales data and
 ## 📷 Dashboard Preview
 
 
-![Coffee Shop Dashboard](images/Coffee-Dashboard.png)
+![Coffee Shop Dashboard](Coffee-Dashboard.png)
 
 ## 🎯 What I Learned
 
