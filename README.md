@@ -1,10 +1,8 @@
 # ☕ Coffee Shop Revenue Dashboard
 
-This is my first data analytics project using Microsoft Excel.
+This project is an interactive sales dashboard created in Microsoft Excel to analyse coffee shop sales data and present business insights in a clear and visual way.
 
-The aim of this project was to analyse coffee shop sales data and build an interactive dashboard that helps users understand business performance. Using Excel, I transformed raw sales data into clear visual reports that highlight revenue trends, product performance, store performance, and customer purchasing patterns.
-
-This project allowed me to practise data cleaning, data analysis, and dashboard design while learning how to use Pivot Tables, Pivot Charts, and Slicers to create an interactive reporting tool. It also helped me develop my ability to turn raw business data into meaningful insights that can support decision-making.
+The aim of this project was to clean and analyse raw sales data and build an interactive dashboard that helps users explore revenue, product performance, store performance, and sales trends. By using Pivot Tables, Pivot Charts, and Slicers, I created a dashboard that makes it easier to understand business performance and identify key trends.
 
 ## 🎯 Project Aim
 
@@ -18,7 +16,10 @@ The main goals of this project were to:
 
 ## 📂 Dataset
 
-The dataset contains **149,456 coffee shop transactions** collected over six months. It includes information about transaction dates and times, store locations, products sold, quantities, and revenue. This data was cleaned and analysed using Microsoft Excel to create the interactive dashboard.
+The dataset contains **149,456 coffee shop transactions** collected over six months. Each record includes information about the transaction date and time, store location, products sold, quantity purchased, unit price, and revenue.
+
+The data was cleaned and prepared in Microsoft Excel before being analysed to create the interactive dashboard.
+
 The main columns include:
 
 | Column | Description |
@@ -63,7 +64,20 @@ The main columns include:
 
 ## 📷 Dashboard Preview
 
+The dashboard provides an interactive overview of coffee shop sales performance. Users can filter the data using slicers to explore trends across different months, products, and store locations.
+
+
 ![Coffee Shop Dashboard](Coffee-Dashboard.png)
+
+## ❓ Business Questions Answered
+
+This dashboard helps answer questions such as:
+
+- Which month generated the highest revenue?
+- Which store performed best?
+- Which products generated the most sales?
+- At what time of day are sales highest?
+- What is the average transaction value?
 
 ## 📈 Key Insights
 
@@ -73,7 +87,7 @@ The main columns include:
 - **Highest Revenue Month:** June
 - **Top-Performing Store:** Hell's Kitchen
 
-Revenue increased steadily from January to June, with June recording the highest sales.
+The analysis showed that revenue increased steadily from January to June, with June recording the highest sales. Hell's Kitchen was the best-performing store, and the average transaction value was £4.69.
 
 ## ⚠️ Challenges Faced
 
