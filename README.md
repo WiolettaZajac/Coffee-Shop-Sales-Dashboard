@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 
 This project is an interactive sales dashboard built in Microsoft Excel using a coffee shop sales dataset.
 
@@ -8,17 +8,18 @@ I built this project to practise my Excel skills and learn how to create interac
 
 ---
 
-## 🎯 Project Objectives
+## Project Goals
 
-- Clean and prepare the sales data.
-- Analyse sales performance using Microsoft Excel.
+The main goals of this project were to:
+
+- Clean and prepare the raw sales data.
+- Analyse sales performance in Excel.
 - Build an interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
-- Compare sales across months, stores, products, and times of day.
-- Present key business metrics in a clear and interactive way.
+- Display key business metrics in a clear and easy-to-use format.
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The dashboard includes:
 
@@ -27,26 +28,19 @@ The dashboard includes:
 - Product performance
 - Store performance
 - Hourly sales analysis
-- Interactive slicers
+- Interactive slicers for filtering the data
 
 ![Coffee Sales Dashboard](images/coffee_sales.png)
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-The dataset contains **149,456 transactions** collected over six months.
+The dataset contains **149,456 sales transactions** covering a six-month period.
 
-Each record includes:
+Each transaction includes information such as the date and time of purchase, store location, product details, quantity sold, and unit price.
 
-- Transaction date and time
-- Store location
-- Product information
-- Quantity sold
-- Unit price
-- Revenue
-
-Before building the dashboard, I cleaned the data and created additional columns such as **Month**, **Day**, **Hour**, and **Weekend** to make the analysis easier.
+Before building the dashboard, I cleaned the data and added several calculated columns, including **Month**, **Day**, **Hour**, and **Weekend**, to make the analysis easier.
 
 | Column | Description |
 |---------|-------------|
@@ -70,7 +64,7 @@ Before building the dashboard, I cleaned the data and created additional columns
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -79,12 +73,12 @@ Before building the dashboard, I cleaned the data and created additional columns
 
 ---
 
-## 📁 Files
+## Files
 
 - [coffee_dashboard.xlsx](dashboard/coffee_dashboard.xlsx)
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 This dashboard helps answer questions such as:
 
@@ -96,33 +90,29 @@ This dashboard helps answer questions such as:
 
 ---
 
-## 📈 Key Results
+##  Key Findings
 
 - **Total Revenue:** £698,812.33
 - **Total Transactions:** 149,116
 - **Average Transaction Value:** £4.69
 - **Highest Revenue Month:** June
-- **Best Performing Store:** Hell's Kitchen
+- **Top Performing Store:** Hell's Kitchen
 
 Revenue increased throughout the six-month period, with June recording the highest sales. Hell's Kitchen generated the highest revenue, while the average customer transaction value was **£4.69**.
 
 ---
+## What I Learned
 
-## 💡 What I Learned
+This was my first Excel dashboard project, so it was a great opportunity to combine several Excel skills in one project.
 
-This was my first dashboard project in Excel, so I learned a lot while building it.
+One of the biggest challenges was learning how Pivot Tables, Pivot Charts, and Slicers work together. I also spent time deciding which charts and KPIs would be the most useful without making the dashboard feel cluttered.
 
-Some of the things I found challenging were:
-
-- Learning how Pivot Tables and Pivot Charts work.
-- Connecting multiple Pivot Tables to the same slicers.
-- Choosing which charts and KPIs to include without making the dashboard too busy.
-
-By the end of the project, I felt much more confident using Excel to clean data, analyse sales, and build interactive dashboards.
+By completing this project, I became much more confident using Excel for data cleaning, analysis, and dashboard creation.
 
 ---
 
-## 🎯 Skills Demonstrated
+
+## Skills Demonstrated
 
 - Data cleaning
 - Data analysis
@@ -134,6 +124,6 @@ By the end of the project, I felt much more confident using Excel to clean data,
 
 ---
 
-## 👤 Author
+## Author
 
 **Wioletta Zajac**
